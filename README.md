@@ -3,6 +3,12 @@
 A responsive movie ticket booking application built using **HTML**, **CSS**, and **JavaScript**.  
 Features a full-screen background video with a dark overlay for a cinematic look.
 
+
+## Preview
+click to view : https://dragindiana8.github.io/Movie_Ticket_Booking/
+
+<img src="Preview.png" alt="Website Preview" height="400" width="auto">
+
 ## Features
 
 - 🎬 **Movie Selection** – Pick from available movies with dynamic ticket pricing.
